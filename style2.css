@@ -9,7 +9,7 @@ body {
     }
 
 body > header, body > section {
-    width: 820px;
+    width: 810px;
     padding: 10px;
     margin: 10px auto;
     background: white;
